@@ -205,4 +205,4 @@ HomeBank is offered as a full free version with all features and updates include
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-11 10:28:05 UTC
+**Last updated:** 2026-10-11 16:27:16 UTC
